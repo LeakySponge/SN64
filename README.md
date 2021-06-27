@@ -1,2 +1,3 @@
 # SN64
-This a Nintendo 64 emulator I am working on. (Status: 1%)
+Expected a N64 emulator ready? Too bad!
+I'll release a prototype when it's ready.
